@@ -15,9 +15,11 @@ http://www.weather-display.com/windy/gb/gauges-ss.html<br/>
 http://wiki.sandaysoft.com/a/SteelSeries_Gauges<br/>
 <br/>
 <br/>
-
-
 <h1>Coming Soon</h1>
+<br/>
+<br/>
+<img src="https://github.com/CodingBSilva/SteelSeries-Canvas-QlikSense/blob/master/radial_example.png?raw=true"/><br/>
+<img src="https://github.com/CodingBSilva/SteelSeries-Canvas-QlikSense/blob/master/linear_example.png?raw=true"/><br/>
 
 
 
