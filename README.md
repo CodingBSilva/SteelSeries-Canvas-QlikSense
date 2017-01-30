@@ -18,8 +18,8 @@ http://wiki.sandaysoft.com/a/SteelSeries_Gauges<br/>
 <h1>Coming Soon</h1>
 <br/>
 <br/>
-<img src="https://github.com/CodingBSilva/SteelSeries-Canvas-QlikSense/blob/master/radial_example.png?raw=true"/><br/>
-<img src="https://github.com/CodingBSilva/SteelSeries-Canvas-QlikSense/blob/master/linear_example.png?raw=true"/><br/>
+<img width="400px" src="https://github.com/CodingBSilva/SteelSeries-Canvas-QlikSense/blob/master/radial_example.png?raw=true"/><br/>
+<img width="400px" src="https://github.com/CodingBSilva/SteelSeries-Canvas-QlikSense/blob/master/linear_example.png?raw=true"/><br/>
 
 
 
