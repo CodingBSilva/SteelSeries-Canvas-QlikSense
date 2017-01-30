@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 The HTML5 Canvas part of the SteelSeries component converted to Qlik Sense Extension - Based on the original code developed by:  Gerrit Grunwald (HanSolo)<br/>
-Original souce: available on Github at https://github.com/HanSolo/SteelSeries-Canvas<br/>
+<b>Original souce:</b> Available on Github at https://github.com/HanSolo/SteelSeries-Canvas<br/>
 <br/>
 Works based on SteelSeries so you can have some ideas (Not everything is implemented on the Qlik Sense version):<br/>
 <b>Demos:</b><br/>
@@ -24,6 +24,6 @@ http://wiki.sandaysoft.com/a/SteelSeries_Gauges<br/>
 
 
 <h2>License</h2>
-Copyright © 2015 Bruno Silva
+Copyright © 2017 Bruno Silva
 
 Released under the MIT license.
