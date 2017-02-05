@@ -41,7 +41,7 @@ The colors in the settings can be specified by the following methods:
 Here you can define your gauge sections and they must be defined as the follow:<br/>
 <code>< start position number >,< end position number >'< color >'</code><br/>
 <b>Example:</b><br/>
-Let's define a blue section (Remember you can always use any color method).
+Let's define a blue section (Remember you can always use any color method).<br/>
 <code>0, 10, 'rgba(0, 0, 220, 0.3)'</code><br/>
 <br/>
 <img src="https://github.com/CodingBSilva/SteelSeries-Canvas-QlikSense/blob/master/sections_example.png?raw=true"/>
@@ -51,7 +51,7 @@ Let's define a blue section (Remember you can always use any color method).
 Areas are not available for all the gauges. They must be defined as the follow:<br/>
 <code>< start position number >,< end position number >'< color >'</code><br/>
 <b>Example:</b><br/>
-Let's define a blue section (Remember you can always use any color method).
+Let's define a small blue area (Remember you can always use any color method).<br/>
 <code>0, 10, 'rgba(0, 0, 220, 0.3)'</code><br/>
 <br/>
 <img src="https://github.com/CodingBSilva/SteelSeries-Canvas-QlikSense/blob/master/areas_example.png?raw=true"/>
