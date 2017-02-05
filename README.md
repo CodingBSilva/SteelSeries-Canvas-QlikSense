@@ -37,6 +37,11 @@ The colors in the settings can be specified by the following methods:
 <a href="http://www.w3schools.com/cssref/css_colors_legal.asp">http://www.w3schools.com/cssref/css_colors_legal.asp</a>
 <br/>
 <br/>
+<h4>Help & Documentation</h4>
+I will try to have more documentation soon (I Hope :)) for now here is a guide line image:<br/>
+<img src="https://github.com/CodingBSilva/SteelSeries-Canvas-QlikSense/blob/master/radial_gauge_help.png?raw=true"/>
+<br/>
+<br/>
 <h4>Sections</h4>
 Here you can define your gauge sections and they must be defined as the follow:<br/>
 <code>< start position number >,< end position number >'< color >'</code><br/>
