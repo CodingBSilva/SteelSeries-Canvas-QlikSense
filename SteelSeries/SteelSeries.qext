@@ -1,0 +1,16 @@
+{
+	"name": "SteelSeries",
+	"description": "The HTML5 Canvas port of the SteelSeries component library for Qlik Sense.",
+	"icon": "gauge-chart",
+	"type": "visualization",
+	"version": "1.0.0",
+	"preview": "preview.png",
+	"author": "CodingBSilva",
+	"homepage": "https://github.com/CodingBSilva/SteelSeries",
+	"keywords": "qlik-sense, visualization",
+	"license": "",
+	"repository": "https://github.com/CodingBSilva/SteelSeries",
+	"dependencies": {
+		"qlik-sense": ">=1.0.x"
+	}
+}
