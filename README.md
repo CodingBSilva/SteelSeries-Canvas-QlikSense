@@ -15,7 +15,7 @@ http://www.weather-display.com/windy/gb/gauges-ss.html<br/>
 http://wiki.sandaysoft.com/a/SteelSeries_Gauges<br/>
 <br/>
 <br/>
-<b>Examples:</b>
+<b>Examples:</b><br/>
 <img width="400px" src="https://github.com/CodingBSilva/SteelSeries-Canvas-QlikSense/blob/master/radial_example.png?raw=true"/><br/>
 <img width="400px" src="https://github.com/CodingBSilva/SteelSeries-Canvas-QlikSense/blob/master/linear_example.png?raw=true"/><br/>
 <br/>
@@ -35,6 +35,27 @@ The colors in the settings can be specified by the following methods:
 </ol>
 <b>More info about the methods follow the link:</b> <br/>
 <a href="http://www.w3schools.com/cssref/css_colors_legal.asp">http://www.w3schools.com/cssref/css_colors_legal.asp</a>
+<br/>
+<br/>
+<h4>Sections</h4>
+Here you can define your gauge sections and they must be defined as the follow:<br/>
+<code>< start position number >,< end position number >'< color >'</code><br/>
+<b>Example:</b><br/>
+Let's define a blue section (Remember you can always use any color method).
+<code>0, 10, 'rgba(0, 0, 220, 0.3)'</code><br/>
+<br/>
+<img src="https://github.com/CodingBSilva/SteelSeries-Canvas-QlikSense/blob/master/sections_example.png?raw=true"/>
+<br/>
+<br/>
+<h4>Areas</h4>
+Areas are not available for all the gauges. They must be defined as the follow:<br/>
+<code>< start position number >,< end position number >'< color >'</code><br/>
+<b>Example:</b><br/>
+Let's define a blue section (Remember you can always use any color method).
+<code>0, 10, 'rgba(0, 0, 220, 0.3)'</code><br/>
+<br/>
+<img src="https://github.com/CodingBSilva/SteelSeries-Canvas-QlikSense/blob/master/areas_example.png?raw=true"/>
+
 <br/>
 <br/>
 <h2>License</h2>
