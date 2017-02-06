@@ -5,6 +5,9 @@ The HTML5 Canvas part of the SteelSeries component converted to Qlik Sense Exten
 <b>Original souce:</b> Available on Github at https://github.com/HanSolo/SteelSeries-Canvas
 <br/>
 <br/>
+<span style="color: #ff0000;"><b>Important Note:</b></span> Not all the feactures are converted to the Qlik Sense version of the product.
+<br/>
+<br/>
 <h2>Installation</h2>
 <ol>
 <li>Download the content.</li>
