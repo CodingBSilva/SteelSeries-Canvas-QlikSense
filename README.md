@@ -2,7 +2,26 @@
 
 <h2>Description</h2>
 The HTML5 Canvas part of the SteelSeries component converted to Qlik Sense Extension - Based on the original code developed by:  Gerrit Grunwald (HanSolo)<br/>
-<b>Original souce:</b> Available on Github at https://github.com/HanSolo/SteelSeries-Canvas<br/>
+<b>Original souce:</b> Available on Github at https://github.com/HanSolo/SteelSeries-Canvas
+<br/>
+<br/>
+<h2>Installation</h2>
+<ol>
+<li>Download the content.</li>
+<li>Deploy the extension to your Qlik Sense environment.</li>
+
+<li><ol>
+  <li>Qlik Sense Desktop: Copy the entire contents of the SteelSeries folder to 
+  "C:\Users\<UserName>\Documents\Qlik\Sense\Extensions\SteelSeries"</li>
+  <li>Qlik Sense Server: Follow the instructions for "Deploying visualizations in Qlik Sense"
+  </ol>
+</li>
+</ol>
+<br/>
+<br/>
+<h2>Usage</h2>
+Open a Qlik Sense app sheet, start Edit mode, then drag and drop the gauge from the Charts menu onto the sheet.<br/>
+<br/>
 <br/>
 Works based on SteelSeries so you can have some ideas (Not everything is implemented on the Qlik Sense version):<br/>
 <b>Demos:</b><br/>
